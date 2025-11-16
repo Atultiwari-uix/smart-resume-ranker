@@ -1,11 +1,7 @@
 import requests
 
 url = "http://localhost:5000/upload"
-
-# Your job description
 job_description = "Looking for a software developer skilled in Python, APIs, and backend development."
-
-
 pdf_path = "resume.pdf"
 
 with open(pdf_path, "rb") as f:
