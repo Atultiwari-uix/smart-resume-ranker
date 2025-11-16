@@ -40,3 +40,6 @@ Returns basic status and `base_url`.
 2. Set your Cohere API key (preferably via environment variable).
 3. Start the server
 
+## Demo
+<img width="1758" height="888" alt="image" src="https://github.com/user-attachments/assets/de9e11e6-9c12-4d6a-9278-dae9ebc496c9" />
+<img width="1743" height="1006" alt="image" src="https://github.com/user-attachments/assets/7d0e3de8-209b-45c2-b1c4-66477a209d08" />
