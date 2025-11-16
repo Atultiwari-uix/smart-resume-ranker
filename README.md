@@ -38,6 +38,5 @@ Returns basic status and `base_url`.
 
 1. Install dependencies (`express`, `multer`, `cors`, `pdf-parse-fork`, `axios`).
 2. Set your Cohere API key (preferably via environment variable).
-3. Start the server (e.g., `node server.js`) and hit `http://localhost:5000/`.
-4. Call `/upload` from your frontend (e.g., on `localhost:3000`) to score resumes.
+3. Start the server
 
